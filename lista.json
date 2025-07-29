@@ -1,0 +1,2106 @@
+[
+  {
+    "ID": 261,
+    "UF": "AL",
+    "CIDADE": "Maceió",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 262,
+    "UF": "PE",
+    "CIDADE": "Paris",
+    "BAIRRO": "Le Center",
+    "LOCAL": "Francesas Avenidas",
+    "AREA": ""
+  },
+  {
+    "ID": 261,
+    "UF": "AL",
+    "CIDADE": "Maceió",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 260,
+    "UF": "PE",
+    "CIDADE": "Goiana",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 259,
+    "UF": "PB",
+    "CIDADE": "Campina Grande",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 258,
+    "UF": "PB",
+    "CIDADE": "João Pessoa",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 257,
+    "UF": "PE",
+    "CIDADE": "Toritama",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 256,
+    "UF": "PE",
+    "CIDADE": "Santa Cruz Do Capibaribe",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 255,
+    "UF": "PE",
+    "CIDADE": "Caruaru",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 254,
+    "UF": "PE",
+    "CIDADE": "Itamaracá",
+    "BAIRRO": "Ilha",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 253,
+    "UF": "PE",
+    "CIDADE": "Itapissuma",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 252,
+    "UF": "PE",
+    "CIDADE": "Igarassu",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 251,
+    "UF": "PE",
+    "CIDADE": "Abreu E Lima",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 250,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Salgadinho",
+    "LOCAL": "Centro De Convenções",
+    "AREA": ""
+  },
+  {
+    "ID": 249,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Salgadinho",
+    "LOCAL": "Classic Hall",
+    "AREA": ""
+  },
+  {
+    "ID": 248,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Shopping Tacaruna",
+    "LOCAL": "Estacionamento",
+    "AREA": ""
+  },
+  {
+    "ID": 247,
+    "UF": "PE",
+    "CIDADE": "Timbaúba",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 246,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Varadouro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 245,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "São Benedito",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 244,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Santa Tereza",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 243,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Salgadinho",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 242,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Ouro Preto",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 241,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Guadalupe",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 240,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Fragoso",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 239,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Casa Caiada",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 238,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Jardim Atlântico",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 237,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Jardim Brasil",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 236,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Bonsucesso",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 235,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Amaro Branco",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 234,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Aguazinha",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 233,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Águas Cumpridas",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 232,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Peixinhos",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 231,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Rio Doce",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 230,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Bairro Novo",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 229,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Centro Histórico",
+    "LOCAL": "Carmo E Amparo",
+    "AREA": ""
+  },
+  {
+    "ID": 228,
+    "UF": "PE",
+    "CIDADE": "Olinda",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 227,
+    "UF": "PE",
+    "CIDADE": "Limoeiro",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 226,
+    "UF": "PE",
+    "CIDADE": "Paulista",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 225,
+    "UF": "PE",
+    "CIDADE": "Paudalho",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 224,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Várzea",
+    "LOCAL": "Tip Rodoviária",
+    "AREA": ""
+  },
+  {
+    "ID": 223,
+    "UF": "PE",
+    "CIDADE": "São Lorenço Da Mata",
+    "BAIRRO": "Penedo",
+    "LOCAL": "Arena Pernambuco",
+    "AREA": ""
+  },
+  {
+    "ID": 222,
+    "UF": "PE",
+    "CIDADE": "São Lorenço Da Mata",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 221,
+    "UF": "PE",
+    "CIDADE": "Camaragibe",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 220,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Jardim São Paulo",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 219,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Barro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 218,
+    "UF": "PE",
+    "CIDADE": "Carpina",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 217,
+    "UF": "PE",
+    "CIDADE": "Vitoria De Santo Antão",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 216,
+    "UF": "PE",
+    "CIDADE": "Moreno",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 215,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Ceasa",
+    "LOCAL": "Área Comercial",
+    "AREA": ""
+  },
+  {
+    "ID": 214,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Estância",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 213,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Muribequinha",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 212,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Marcos Freire",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 211,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Muribeca",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 210,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 209,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Ibura",
+    "LOCAL": "Alto E Baixo",
+    "AREA": ""
+  },
+  {
+    "ID": 208,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Cohab",
+    "LOCAL": "Hospital Do Cancer",
+    "AREA": ""
+  },
+  {
+    "ID": 207,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Guabiraba",
+    "LOCAL": "Hospital Do Cancer",
+    "AREA": ""
+  },
+  {
+    "ID": 206,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Beberibe",
+    "LOCAL": "Hospital Do Cancer",
+    "AREA": ""
+  },
+  {
+    "ID": 205,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Arruda",
+    "LOCAL": "Hospital Do Cancer",
+    "AREA": ""
+  },
+  {
+    "ID": 204,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Água Fria",
+    "LOCAL": "Hospital Do Cancer",
+    "AREA": ""
+  },
+  {
+    "ID": 203,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Várzea",
+    "LOCAL": "Hospital Do Cancer",
+    "AREA": ""
+  },
+  {
+    "ID": 202,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Caixa D Agua",
+    "LOCAL": "Hospital Do Cancer",
+    "AREA": ""
+  },
+  {
+    "ID": 201,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Dois Unidos",
+    "LOCAL": "Hospital Do Cancer",
+    "AREA": ""
+  },
+  {
+    "ID": 200,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Santo Amaro",
+    "LOCAL": "Hospital Do Cancer",
+    "AREA": ""
+  },
+  {
+    "ID": 199,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Casa Amarela",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 198,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Macaxeira",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 197,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Casa Forte",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 196,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Alto São José Do Pinho",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 195,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Aflitos",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 194,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Brasilia Teimosa",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 193,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "São José",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 192,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Joana Bezerra",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 191,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Ilha Do Leite",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 190,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Espinheiro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 189,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Graça",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 188,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Dois Irmãos",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 187,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Morro Da Conceição",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 186,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Tamarineira",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 185,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Vasco Da Gama",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 184,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Nova Descoberta",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 183,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Encruzilhada",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 182,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Pina",
+    "LOCAL": "Shopping Rio Mar",
+    "AREA": ""
+  },
+  {
+    "ID": 181,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Boa Viagem",
+    "LOCAL": "Shopping Recife",
+    "AREA": ""
+  },
+  {
+    "ID": 180,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Aeroporto",
+    "LOCAL": "Embarque/Desembarque",
+    "AREA": ""
+  },
+  {
+    "ID": 179,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Jordão Baixo",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 178,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Jordão Alto",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 177,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Porta Larga",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 176,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Prazeres",
+    "LOCAL": "Shopping Guararapes",
+    "AREA": ""
+  },
+  {
+    "ID": 175,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Prazeres",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 174,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Cajueiro Seco",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 173,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Cajueiro Seco",
+    "LOCAL": "Ti",
+    "AREA": ""
+  },
+  {
+    "ID": 172,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Comportas",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 171,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Jardim Prazeres",
+    "LOCAL": "Vitarella",
+    "AREA": ""
+  },
+  {
+    "ID": 170,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Jardim Prazeres",
+    "LOCAL": "Areieiro",
+    "AREA": ""
+  },
+  {
+    "ID": 169,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Jardim Prazeres",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 168,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Lagoa Das Garças",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 167,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Sotave",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 166,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Ponte Dos Carvalhos",
+    "LOCAL": "Autometal",
+    "AREA": ""
+  },
+  {
+    "ID": 165,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Ponte Dos Carvalhos",
+    "LOCAL": "Fortlev",
+    "AREA": ""
+  },
+  {
+    "ID": 164,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Distrito Industrial",
+    "LOCAL": "Refinaria De Milho",
+    "AREA": ""
+  },
+  {
+    "ID": 163,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Distrito Industrial",
+    "LOCAL": "Cd Americanas",
+    "AREA": ""
+  },
+  {
+    "ID": 162,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Distrito Industrial",
+    "LOCAL": "Tecmar",
+    "AREA": ""
+  },
+  {
+    "ID": 161,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Distrito Industrial",
+    "LOCAL": "Amazon",
+    "AREA": ""
+  },
+  {
+    "ID": 160,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Charnequinha",
+    "LOCAL": "Nativa Guerra",
+    "AREA": ""
+  },
+  {
+    "ID": 159,
+    "UF": "PE",
+    "CIDADE": "Rio Formoso",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 158,
+    "UF": "PE",
+    "CIDADE": "Sirinhaém",
+    "BAIRRO": "Santo Amaro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 157,
+    "UF": "PE",
+    "CIDADE": "Sirinhaém",
+    "BAIRRO": "Barra De Sirinhaém",
+    "LOCAL": "A Ver O Mar",
+    "AREA": ""
+  },
+  {
+    "ID": 156,
+    "UF": "PE",
+    "CIDADE": "Sirinhaém",
+    "BAIRRO": "Barra De Sirinhaém",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 155,
+    "UF": "PE",
+    "CIDADE": "Sirinhaém",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 154,
+    "UF": "PE",
+    "CIDADE": "Ipojuca",
+    "BAIRRO": "Campo Do Avião",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 153,
+    "UF": "PE",
+    "CIDADE": "Ipojuca",
+    "BAIRRO": "Bela Vista",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 152,
+    "UF": "PE",
+    "CIDADE": "Ipojuca",
+    "BAIRRO": "Camela",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 151,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Complexo Portuário De Suape",
+    "LOCAL": "Engenho Mercês",
+    "AREA": ""
+  },
+  {
+    "ID": 150,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Complexo Portuário De Suape",
+    "LOCAL": "Deca",
+    "AREA": ""
+  },
+  {
+    "ID": 149,
+    "UF": "PE",
+    "CIDADE": "Ipojuca",
+    "BAIRRO": "Vila California",
+    "LOCAL": "Upa/Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 148,
+    "UF": "PE",
+    "CIDADE": "Ipojuca",
+    "BAIRRO": "Rurópolis",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 147,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Serraria",
+    "LOCAL": "Coca Cola",
+    "AREA": ""
+  },
+  {
+    "ID": 146,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Distrito Industrial",
+    "LOCAL": "Tintas Starlux",
+    "AREA": ""
+  },
+  {
+    "ID": 145,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Bairro São Francisco",
+    "LOCAL": "Alto Dos Miranda",
+    "AREA": ""
+  },
+  {
+    "ID": 144,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Centro",
+    "LOCAL": "Rua Da Saudade - Beco Do Sindicato",
+    "AREA": ""
+  },
+  {
+    "ID": 143,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Centro",
+    "LOCAL": "Padaria Do Gilberto",
+    "AREA": ""
+  },
+  {
+    "ID": 142,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Centro",
+    "LOCAL": "Hospital Infantil",
+    "AREA": ""
+  },
+  {
+    "ID": 141,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Engenho Rico",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 140,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Engenho Coimbra",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 139,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Engenho Mata",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 138,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Engenho Serra",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 137,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Pau Santo",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 136,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Gurjaú",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 135,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Ponte Dos Carvalhos",
+    "LOCAL": "Usina Bom Jesus",
+    "AREA": ""
+  },
+  {
+    "ID": 134,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Massangana",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 133,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Serraria",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 132,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Algodoais",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 131,
+    "UF": "PE",
+    "CIDADE": "Palmares",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 130,
+    "UF": "PE",
+    "CIDADE": "Amaraji",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 129,
+    "UF": "PE",
+    "CIDADE": "Frexeiras",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 128,
+    "UF": "PE",
+    "CIDADE": "Bonito",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 127,
+    "UF": "PE",
+    "CIDADE": "Barra De Guabiraba",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 126,
+    "UF": "PE",
+    "CIDADE": "Cortês",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 125,
+    "UF": "PE",
+    "CIDADE": "Gameleira",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 124,
+    "UF": "PE",
+    "CIDADE": "Ribeirão",
+    "BAIRRO": "José Mariano",
+    "LOCAL": "Usina Caxangá",
+    "AREA": ""
+  },
+  {
+    "ID": 123,
+    "UF": "PE",
+    "CIDADE": "Ribeirão",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 122,
+    "UF": "PE",
+    "CIDADE": "Escada",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 121,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Liberdade",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 120,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Castelo",
+    "LOCAL": "Castelo Recepções",
+    "AREA": ""
+  },
+  {
+    "ID": 119,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Mercês",
+    "LOCAL": "Granja Pageú",
+    "AREA": ""
+  },
+  {
+    "ID": 118,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Charneca",
+    "LOCAL": "Aymara",
+    "AREA": ""
+  },
+  {
+    "ID": 117,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Castelo",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 116,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Mercês",
+    "LOCAL": "Lay Hotel",
+    "AREA": ""
+  },
+  {
+    "ID": 115,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Sebastopol",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 114,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Sebastopol",
+    "LOCAL": "Motel Vai E Vem",
+    "AREA": ""
+  },
+  {
+    "ID": 113,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Centro",
+    "LOCAL": "Novo Atacarejo",
+    "AREA": ""
+  },
+  {
+    "ID": 112,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Centro",
+    "LOCAL": "Arco-Vita Atacarejo",
+    "AREA": ""
+  },
+  {
+    "ID": 111,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Garapú 2",
+    "LOCAL": "Por Trás Da Auto Nunes",
+    "AREA": ""
+  },
+  {
+    "ID": 110,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Casinhas",
+    "LOCAL": "Segunda Etapa",
+    "AREA": ""
+  },
+  {
+    "ID": 109,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Casinhas",
+    "LOCAL": "Primeira Etapa",
+    "AREA": ""
+  },
+  {
+    "ID": 108,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Pontezinha",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 107,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Pontezinha",
+    "LOCAL": "Vila Nova",
+    "AREA": ""
+  },
+  {
+    "ID": 106,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Ponte Dos Carvalhos",
+    "LOCAL": "Nova Morada - Após Terminal",
+    "AREA": ""
+  },
+  {
+    "ID": 105,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Ponte Dos Carvalhos",
+    "LOCAL": "Nova Era",
+    "AREA": ""
+  },
+  {
+    "ID": 104,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Ponte Dos Carvalhos",
+    "LOCAL": "Vila Nova",
+    "AREA": ""
+  },
+  {
+    "ID": 103,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Ponte Dos Carvalhos",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 102,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Ponte Dos Carvalhos",
+    "LOCAL": "Jsl - Santo Estevão",
+    "AREA": ""
+  },
+  {
+    "ID": 101,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Ponte Dos Carvalhos",
+    "LOCAL": "Hospital Dom Helder",
+    "AREA": ""
+  },
+  {
+    "ID": 100,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Ponte Dos Carvalhos",
+    "LOCAL": "Armazena",
+    "AREA": ""
+  },
+  {
+    "ID": 99,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Burrama",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 98,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Pista Preta",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 97,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Distrito Industrial",
+    "LOCAL": "Cone Multimodal",
+    "AREA": ""
+  },
+  {
+    "ID": 96,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Rosário",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 95,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Garapú 2",
+    "LOCAL": "Sentido Cabo - Auto Nunes",
+    "AREA": ""
+  },
+  {
+    "ID": 94,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Comunidade Esperança",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 93,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Comunidade Conest",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 92,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Vila Claudete",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 91,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Garapú 1",
+    "LOCAL": "Após 2 Modelo",
+    "AREA": ""
+  },
+  {
+    "ID": 90,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Garapú 1",
+    "LOCAL": "Principais Ruas",
+    "AREA": ""
+  },
+  {
+    "ID": 89,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Garapú 1",
+    "LOCAL": "Campo Do Baiba",
+    "AREA": ""
+  },
+  {
+    "ID": 88,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Vila Roca",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 87,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Vila Social",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 86,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Destilaria",
+    "LOCAL": "Comunidade Cristo Rei",
+    "AREA": ""
+  },
+  {
+    "ID": 85,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Destilaria",
+    "LOCAL": "Rua Da Linha E Do Canal",
+    "AREA": ""
+  },
+  {
+    "ID": 84,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Destilaria",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 83,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Engenho Novo",
+    "LOCAL": "Casa De Recuperação Canaã",
+    "AREA": ""
+  },
+  {
+    "ID": 82,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Engenho Novo",
+    "LOCAL": "Estrada De Terra",
+    "AREA": ""
+  },
+  {
+    "ID": 81,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Engenho Novo",
+    "LOCAL": "Asfaltadas",
+    "AREA": ""
+  },
+  {
+    "ID": 80,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Pirapama",
+    "LOCAL": "Cida Park",
+    "AREA": ""
+  },
+  {
+    "ID": 79,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Pirapama",
+    "LOCAL": "Estrada Da Barragem",
+    "AREA": ""
+  },
+  {
+    "ID": 78,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Pirapama",
+    "LOCAL": "Mangueirinha",
+    "AREA": ""
+  },
+  {
+    "ID": 77,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Pirapama",
+    "LOCAL": "Casa Branca",
+    "AREA": ""
+  },
+  {
+    "ID": 76,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Pirapama",
+    "LOCAL": "Tururu",
+    "AREA": ""
+  },
+  {
+    "ID": 75,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Pirapama",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 74,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Charneca",
+    "LOCAL": "Córrego Após O Terminal",
+    "AREA": ""
+  },
+  {
+    "ID": 73,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Charneca",
+    "LOCAL": "Córrego Até O Terminal",
+    "AREA": ""
+  },
+  {
+    "ID": 72,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Charneca",
+    "LOCAL": "Alto Do Cajueiro",
+    "AREA": ""
+  },
+  {
+    "ID": 71,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Novo Horizonte",
+    "LOCAL": "Rua Da Bica",
+    "AREA": ""
+  },
+  {
+    "ID": 70,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Barbalho 1 E 2",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 69,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Santa Rosa",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 68,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Vila Do Sesi",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 67,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Charneca",
+    "LOCAL": "Sesi",
+    "AREA": ""
+  },
+  {
+    "ID": 66,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Charnequinha",
+    "LOCAL": "Mendo Sampaio",
+    "AREA": ""
+  },
+  {
+    "ID": 65,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Charnequinha",
+    "LOCAL": "Grau Técnico",
+    "AREA": ""
+  },
+  {
+    "ID": 64,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Mauriti",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 63,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Charnequinha",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 62,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Garapú 2",
+    "LOCAL": "Shopping Costa Dourada",
+    "AREA": ""
+  },
+  {
+    "ID": 61,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Garapú 2",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 60,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Garapú 2",
+    "LOCAL": "Dharma Ville",
+    "AREA": ""
+  },
+  {
+    "ID": 59,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Garapú 2",
+    "LOCAL": "Residencial Porto Do Cabo",
+    "AREA": ""
+  },
+  {
+    "ID": 58,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Cohab",
+    "LOCAL": "Rua Do Açude",
+    "AREA": ""
+  },
+  {
+    "ID": 57,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Bairro São Francisco",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 56,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Malaquias",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 55,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Fundai-Cruzeiro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 54,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Cruzeiro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 53,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Bela Vista",
+    "LOCAL": "Rua 9 E 25",
+    "AREA": ""
+  },
+  {
+    "ID": 52,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Bela Vista",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 51,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Cohab",
+    "LOCAL": "Madre Iva - Ladeira Do Shopping",
+    "AREA": ""
+  },
+  {
+    "ID": 50,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Cohab",
+    "LOCAL": "Rua São João",
+    "AREA": ""
+  },
+  {
+    "ID": 49,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Centro",
+    "LOCAL": "Alto De Cemitério",
+    "AREA": ""
+  },
+  {
+    "ID": 48,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Sapucaia",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 47,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Torrinha",
+    "LOCAL": "Ladeira Do Arco-Mix",
+    "AREA": ""
+  },
+  {
+    "ID": 46,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Torrinha",
+    "LOCAL": "Antigo Matadouro Ou Fábrica De Cloro",
+    "AREA": ""
+  },
+  {
+    "ID": 45,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 44,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Pina",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 43,
+    "UF": "PE",
+    "CIDADE": "Recife",
+    "BAIRRO": "Boa Viagem",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 42,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Piedade",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 41,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Candeias",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 40,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Barra De Jangada",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 39,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Cohab",
+    "LOCAL": "Após O Trevo Da 55",
+    "AREA": ""
+  },
+  {
+    "ID": 38,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Cohab",
+    "LOCAL": "Trevo Da 55",
+    "AREA": ""
+  },
+  {
+    "ID": 37,
+    "UF": "PE",
+    "CIDADE": "Jaboatão Dos Guararapes",
+    "BAIRRO": "Curcurana",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 36,
+    "UF": "AL",
+    "CIDADE": "Maragogi",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 35,
+    "UF": "PE",
+    "CIDADE": "São José Da Coroa Grande",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 34,
+    "UF": "PE",
+    "CIDADE": "Barreiros",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 33,
+    "UF": "PE",
+    "CIDADE": "Tamandaré",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 32,
+    "UF": "PE",
+    "CIDADE": "Tamandaré",
+    "BAIRRO": "Praia Dos Carneiros",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 31,
+    "UF": "PE",
+    "CIDADE": "Ipojuca",
+    "BAIRRO": "Serrambi",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 30,
+    "UF": "PE",
+    "CIDADE": "Ipojuca",
+    "BAIRRO": "Maracaípe",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 29,
+    "UF": "PE",
+    "CIDADE": "Ipojuca",
+    "BAIRRO": "Muro Alto",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 28,
+    "UF": "PE",
+    "CIDADE": "Ipojuca",
+    "BAIRRO": "Porto De Galinhas",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 27,
+    "UF": "PE",
+    "CIDADE": "Ipojuca",
+    "BAIRRO": "Nossa Senhora Do Ó",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 26,
+    "UF": "PE",
+    "CIDADE": "Ipojuca",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 25,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Mercês",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 24,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Gaibu",
+    "LOCAL": "Jaqueira",
+    "AREA": ""
+  },
+  {
+    "ID": 23,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Gaibu",
+    "LOCAL": "Pantanal",
+    "AREA": ""
+  },
+  {
+    "ID": 22,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Gaibu",
+    "LOCAL": "Loteamento Águas Cumpridas",
+    "AREA": ""
+  },
+  {
+    "ID": 21,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Gaibu",
+    "LOCAL": "Lagoa Do Zumbi",
+    "AREA": ""
+  },
+  {
+    "ID": 20,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Gaibu",
+    "LOCAL": "Loteamento Águas Cumpridas",
+    "AREA": ""
+  },
+  {
+    "ID": 19,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Gaibu",
+    "LOCAL": "Água Mineral - Dentro",
+    "AREA": ""
+  },
+  {
+    "ID": 18,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Gaibu",
+    "LOCAL": "Água Mineral - Inicio",
+    "AREA": ""
+  },
+  {
+    "ID": 17,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Suape",
+    "LOCAL": "Engenho Tiriri",
+    "AREA": ""
+  },
+  {
+    "ID": 16,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Suape",
+    "LOCAL": "Bar Do Elói",
+    "AREA": ""
+  },
+  {
+    "ID": 15,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Suape",
+    "LOCAL": "Bar Do Doido",
+    "AREA": ""
+  },
+  {
+    "ID": 14,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Suape",
+    "LOCAL": "Vila Nazaré",
+    "AREA": ""
+  },
+  {
+    "ID": 13,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Paiva",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 12,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Itapuama",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 11,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Xaréu",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 10,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Paraíso",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 9,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Calhetas",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 8,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Suape",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 7,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Gaibu",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 6,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Gaibu",
+    "LOCAL": "Manguinho",
+    "AREA": ""
+  },
+  {
+    "ID": 5,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Enseada Dos Corais",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 4,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Centro",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 3,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Novo Horizonte",
+    "LOCAL": "Ruas Principais",
+    "AREA": ""
+  },
+  {
+    "ID": 2,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Santo Inácio",
+    "LOCAL": "Atacadão Atacarejo",
+    "AREA": ""
+  },
+  {
+    "ID": 1,
+    "UF": "PE",
+    "CIDADE": "Cabo ",
+    "BAIRRO": "Santo Inácio",
+    "LOCAL": "Assaí Atacarejo",
+    "AREA": ""
+  }
+]
