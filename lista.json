@@ -1,21 +1,5 @@
 [
   {
-    "ID": 263,
-    "UF": "AL",
-    "CIDADE": "Maceió",
-    "BAIRRO": "Centro",
-    "LOCAL": "Ruas Principais",
-    "AREA": ""
-  },
-  {
-    "ID": 262,
-    "UF": "PE",
-    "CIDADE": "Paris",
-    "BAIRRO": "Le Center",
-    "LOCAL": "Francesas Avenidas",
-    "AREA": ""
-  },
-  {
     "ID": 261,
     "UF": "AL",
     "CIDADE": "Maceió",
